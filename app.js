@@ -104,4 +104,6 @@ async function displayAllGames() {
     } 
 }
 
+// i forgot to checkout a branch from main, so i accidently coded on main
+// adding this comment to make a dev branch
 
